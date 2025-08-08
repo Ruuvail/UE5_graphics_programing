@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ruvail\\documents\\github\\ue5_graphics_programing\\targetpracticecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\targetpracticecpp\\uht\\targetpracticecppgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ruvail\\documents\\github\\ue5_graphics_programing\\targetpracticecpp\\intermediate\\build\\win64\\targetpracticecppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ruvail\\documents\\github\\ue5_graphics_programing\\targetpracticecpp\\intermediate\\build\\win64\\unrealeditor\\development\\targetpracticecpp\\definitions.targetpracticecpp.h",
+            "c:\\users\\ruvail\\documents\\github\\ue5_graphics_programing\\targetpracticecpp\\source\\targetpracticecpp\\targetpracticecppgamemode.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\ruvail\\documents\\github\\ue5_graphics_programing\\targetpracticecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\targetpracticecpp\\uht\\targetpracticecppgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

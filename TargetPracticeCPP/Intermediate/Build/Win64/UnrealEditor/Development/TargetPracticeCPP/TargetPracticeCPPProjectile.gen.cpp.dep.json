@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ruvail\\documents\\github\\ue5_graphics_programing\\targetpracticecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\targetpracticecpp\\uht\\targetpracticecppprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ruvail\\documents\\github\\ue5_graphics_programing\\targetpracticecpp\\intermediate\\build\\win64\\targetpracticecppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ruvail\\documents\\github\\ue5_graphics_programing\\targetpracticecpp\\intermediate\\build\\win64\\unrealeditor\\development\\targetpracticecpp\\definitions.targetpracticecpp.h",
+            "c:\\users\\ruvail\\documents\\github\\ue5_graphics_programing\\targetpracticecpp\\source\\targetpracticecpp\\targetpracticecppprojectile.h",
+            "c:\\users\\ruvail\\documents\\github\\ue5_graphics_programing\\targetpracticecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\targetpracticecpp\\uht\\targetpracticecppprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Ruvail\\Documents\\GitHub\\UE5_graphics_programing\\TargetPracticeCPP\\Source\\TargetPracticeCPP\\TargetPracticeCPP.Build.cs",
+		"C:\\Users\\Ruvail\\Documents\\GitHub\\UE5_graphics_programing\\TargetPracticeCPP\\Source\\TargetPracticeCPP.Target.cs",
+		"C:\\Users\\Ruvail\\Documents\\GitHub\\UE5_graphics_programing\\TargetPracticeCPP\\Source\\TargetPracticeCPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
