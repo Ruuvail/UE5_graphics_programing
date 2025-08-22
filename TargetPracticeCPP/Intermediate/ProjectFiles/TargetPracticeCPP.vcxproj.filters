@@ -66,6 +66,12 @@
     <ClInclude Include="..\..\Source\TargetPracticeCPP\TargetPracticeCPPProjectile.h">
       <Filter>Source\TargetPracticeCPP</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\TargetPracticeCPP\TargetPracticeManager.cpp">
+      <Filter>Source\TargetPracticeCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TargetPracticeCPP\TargetPracticeManager.h">
+      <Filter>Source\TargetPracticeCPP</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\TargetPracticeCPP\TP_PickUpComponent.cpp">
       <Filter>Source\TargetPracticeCPP</Filter>
     </ClCompile>
