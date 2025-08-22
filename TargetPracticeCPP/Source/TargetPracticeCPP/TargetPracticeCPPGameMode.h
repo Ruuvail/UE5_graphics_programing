@@ -1,4 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
 
 #pragma once
 
@@ -13,7 +12,35 @@ class ATargetPracticeCPPGameMode : public AGameModeBase
 
 public:
 	ATargetPracticeCPPGameMode();
-};
 
+protected:
+	virtual void BeginPlay() override;
+
+	
+	UPROPERTY(EditAnywhere, Category = "UI")
+	TSubclassOf<class UUserWidget> MainMenuClass;
+
+	UPROPERTY(EditAnywhere, Category = "UI")
+	TSubclassOf<class UUserWidget> GameUIClass;
+
+	UPROPERTY(EditAnywhere, Category = "UI")
+	TSubclassOf<class UUserWidget> GameOverUIClass;
+
+private:
+	//screen
+	UPROPERTY()
+	class UUserWidget* CurrentWidget;
+
+public:
+	// UI pass
+	UFUNCTION(BlueprintCallable)
+	void ShowMainMenu();
+
+	UFUNCTION(BlueprintCallable)
+	void StartGame();
+
+	UFUNCTION(BlueprintCallable)
+	void ShowGameOver();
+};
 
 
